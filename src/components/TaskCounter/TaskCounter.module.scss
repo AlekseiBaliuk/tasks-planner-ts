@@ -1,0 +1,15 @@
+:global {
+  body[data-theme='light'] {
+    --counter-color: var(--gray-500);
+  }
+
+  body[data-theme='dark'] {
+    --counter-color: var(--white);
+  }
+}
+
+
+.text {
+  color: var(--counter-color);
+  margin: 0;
+}

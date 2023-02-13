@@ -1,0 +1,1 @@
+# TypeScript project "GitHub user finder"
