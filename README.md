@@ -1,1 +1,1 @@
-# TypeScript project "GitHub user finder"
+# TypeScript project "Tasks planner"
